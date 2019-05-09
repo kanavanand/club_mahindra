@@ -1,4 +1,6 @@
-![Example Image](Screen Shot 2019-05-08 at 11.03.47 AM.png?raw=true "Optional Title"))
+
+![Example Image](example.png?raw=true "Optional Title"))
+
 
 # [Club Mahindra Data Olympics](https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/)
 ```python
@@ -92,4 +94,6 @@ Modeling:
 My final model consist of ensemble of
 
 [ lightGBM , Catboost , 5_fold_Light GBM , 5_fold_Catboost and stacking of [xgb,catboost,lightGBM]
-![Example Image](lgbm_importances.png	?raw=true "Optional Title"))
+
+![Example](lgbm_importances.png?raw=true "Optional Title"))
+
