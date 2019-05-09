@@ -1,5 +1,5 @@
 
-![Example Image](example.png?raw=true "Optional Title"))
+![Example Image](example.png?raw=true "Optional Title")
 
 
 # [Club Mahindra Data Olympics](https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/)
